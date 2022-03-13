@@ -1,5 +1,6 @@
 #include <iostream>
 
+// Declare const and functions prototype.
 void doubleMe(int *, const int);
 void printMe(int *, const int);
 
